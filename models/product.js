@@ -25,7 +25,6 @@ const productSchema = new mongoose.Schema({
     },
     cloudinaryId:{
         type:String
-        
     }
 
 });
